@@ -38,6 +38,9 @@ overcome this imbalance case. The methods were listed below:
 
 Each method has their own way of creating new data samples.
 
-The system main steps was shown below as a diagram.
+The system's main steps was shown below as a diagram.
 
 ![steps](https://user-images.githubusercontent.com/57035819/150503632-88def8c6-cd41-4a2d-afbb-ec5a3a8cf666.jpg)
+
+## Author
+- [honourrable](https://github.com/honourrable)
