@@ -478,43 +478,6 @@ def print_progress(iteration, total, prefix='', suffix='', decimals=1, length=10
 
 
 def main():
-
-    # urls = ["https://www.yelp.com/biz/old-ottoman-cafe-ve-restaurant-istanbul",
-    #         "https://www.yelp.com/biz/roof-mezze-360-istanbul-2",
-    #         "https://www.yelp.com/biz/akdeniz-hatay-sofras%C4%B1-istanbul",
-    #         "https://www.yelp.com/biz/ayasofya-m%C3%BCzesi-istanbul",
-    #         "https://www.yelp.com/biz/kariye-m%C3%BCzesi-istanbul-2",
-    #         "https://www.yelp.com/biz/pera-m%C3%BCzesi-beyo%C4%9Flu?osq=museums",
-    #         "https://www.yelp.com/biz/hairvana-istanbul?osq=Hair+Salons",
-    #         "https://www.yelp.com/biz/galata-no5-kuaf%C3%B6r-istanbul?osq=Hair+Salons",
-    #         "https://www.yelp.com/biz/emre-demircan-hair-studio-istanbul?osq=Hair+Salons",
-    #         "https://www.yelp.com/biz/m%C4%B1s%C4%B1r-%C3%A7ar%C5%9F%C4%B1s%C4%B1-istanbul-4",
-    #         "https://www.yelp.com/biz/kapal%C4%B1%C3%A7ar%C5%9F%C4%B1-istanbul-2",
-    #         "https://www.yelp.com/biz/zorlu-avm-istanbul-2"]
-    #
-    # for url in urls:
-    #     all_reviews = scrap_data(url)
-    #
-    #     counter = 0
-    #     for index in range(len(all_reviews)):
-    #         print(all_reviews[index])
-    #         counter += 1
-    #
-    #     print(counter)
-
-    # index = 0
-    # control = True
-    # input = "& start = "
-    # while control:
-    #
-    #
-    #     index += 10
-
-    # df = pd.DataFrame(np.array(all_reviews), columns=['review'])
-    #
-    # for index, row in df.iterrows():
-    #     print(row)
-
     # prepare_original_data()
 
     # Sample Text Star Rating Prediciton
